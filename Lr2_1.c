@@ -14,16 +14,8 @@ int main(){
     printf("Enter n");
     scanf("%d", &n);
     
+    printf("Sum is %f", sum(n)); 
     
-    if (n < 0);
-    {
-        printf("Duracki russki");
-    }
-    
-    else(n > 0);
-    {
-        printf("Sum is %f", sum(n)); 
-    }
     
     
     return 0; 
